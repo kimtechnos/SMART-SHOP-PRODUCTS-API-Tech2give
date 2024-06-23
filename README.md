@@ -77,7 +77,7 @@ npm run start
 **Create a folder named `products api`:**
 In Insomnia, create a new folder named `products api` to organize your requests.
 
-3. **Set up the requests within the `products api` folder:**
+1. **Set up the requests within the `products api` folder:**
 
    - **Get All Products**
 
@@ -121,4 +121,4 @@ In Insomnia, create a new folder named `products api` to organize your requests.
 
      - **Note:** Replace `:id` with the actual product ID.
 
-4. **Run the requests:**
+2. **Run the requests:**
